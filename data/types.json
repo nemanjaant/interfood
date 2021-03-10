@@ -1,0 +1,22 @@
+[
+    {
+        "typeID":1,
+        "typeName":"breakfast"
+    },
+    {
+        "typeID":2,
+        "typeName":"lunch"
+    },
+    {
+        "typeID":3,
+        "typeName":"dinner"
+    },
+    {
+        "typeID":4,
+        "typeName":"dessert"
+    },
+    {
+        "typeID":5,
+        "typeName":"other meals"
+    }
+]

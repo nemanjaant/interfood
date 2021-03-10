@@ -1,0 +1,22 @@
+[
+    {
+        "idLink":1,
+        "linkName":"Home",
+        "href":"index.html"
+    },
+    {
+        "idLink":2,
+        "linkName":"Cart",
+        "href":"cart.html"
+    },
+    {
+        "idLink":3,
+        "linkName":"Contact",
+        "href":"contact.html"
+    },
+    {
+        "idLink":4,
+        "linkName":"About",
+        "href":"about.html"
+    }
+]

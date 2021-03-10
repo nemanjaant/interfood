@@ -1,0 +1,31 @@
+[
+    {
+        "cousineId":1,
+        "cousineName":"Serbian",
+        "cousineFlag":"assets/img/flag/serbian.jpg"
+    },
+
+    {
+        "cousineId":2,
+        "cousineName":"Italian",
+        "cousineFlag":"assets/img/flag/italian.jpg"
+    },
+
+    {
+        "cousineId":3,
+        "cousineName":"Chinese",
+        "cousineFlag":"assets/img/flag/chinese.jpg"
+    },
+
+    {
+        "cousineId":4,
+        "cousineName":"Indian",
+        "cousineFlag":"assets/img/flag/indian.jpg"
+    },
+
+    {
+        "cousineId":5,
+        "cousineName":"other cousines",
+        "cousineFlag":null
+    }
+]

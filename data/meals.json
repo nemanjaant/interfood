@@ -1,0 +1,420 @@
+[
+    {
+        "mealId":1,
+        "mealName":"Hamburger",
+        "mealType":[2,3],
+        "mealCousine":1,
+        "image":"assets/img/foods/hamburger.jpg",
+        "price":{
+            "old":15,
+            "new":8
+        },
+        "descriptionShort":"A hamburger (also burger for short) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun.",
+        "descriptionLong":"A hamburger (also burger for short) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chiles; condiments such as ketchup, mustard, mayonnaise, relish, or a \"special sauce\", often a variation of Thousand Island dressing; and are frequently placed on sesame seed buns. A hamburger topped with cheese is called a cheeseburger."
+    },
+
+    {
+        "mealId":2,
+        "mealName":"Cabbage Roll",
+        "mealType":[2],
+        "mealCousine":1,
+        "image":"assets/img/foods/cabbage-rolls.jpg",
+        "price":{
+            "old":null,
+            "new": 25
+        },
+        "descriptionShort":"A cabbage roll is a dish consisting of cooked cabbage leaves wrapped around a variety of fillings.",
+        "descriptionLong":"Cabbage leaves are stuffed with the filling which are then baked, simmered, or steamed in a covered pot and generally eaten warm, often accompanied with a sauce. The sauce varies widely by cuisine. In Sweden and sometimes in Finland, stuffed cabbage is served with lingonberry jam, which is both sweet and tart. In Eastern Europe, tomato-based sauces or plain sour cream are typical. In Lebanon, the cabbage is stuffed with rice and minced meat and only rolled to the size of a cigar. It is usually served with a side dish of yogurt and a type of lemon and olive oil vinaigrette seasoned with garlic and dried mint."
+    },
+
+    {
+        "mealId":3,
+        "mealName":"Moussaka",
+        "mealType":[2],
+        "mealCousine":1,
+        "image":"assets/img/foods/moussaka.jpg",
+        "price":{
+            "old":null,
+            "new": 25
+        },
+        "descriptionShort":"Moussaka is an eggplant- and/or potato-based dish, often including ground meat, which is common in the Balkans and the Middle East, with many local and regional variations.",
+        "descriptionLong":"Moussaka is an eggplant- and/or potato-based dish, often including ground meat, which is common in the Balkans and the Middle East, with many local and regional variations. Potatoes are used instead of eggplant, pork or beef mince, and the top layer is usually milk or yogurt mixed with raw eggs, sometimes with a small amount of flour added. There is also a three-layer version: the bottom layer consists of ground pork and beef, the middle layer of potato slices, and the top layer is typically a custard."
+    },
+
+    {
+        "mealId":4,
+        "mealName":"Ajvar with Eggs",
+        "mealType":[1],
+        "mealCousine":1,
+        "image":"assets/img/foods/ajvar-with-eggs.jpg",
+        "price":{
+            "old":null,
+            "new": 5
+        },
+        "descriptionShort":"Ajvar is a condiment made principally from red bell peppers, eggplants, and oil. The relish became a popular side dish throughout Yugoslavia.",
+        "descriptionLong":"Ajvar is a condiment made principally from red bell peppers, eggplants, and oil. The relish became a popular side dish throughout Yugoslavia after World War II and is popular in Southeastern Europe. Homemade ajvar is made of roasted, minced and then cooked peppers, while some industrial producers use fresh minced peppers, cooked with sunflower oil afterwards, which leads to a lower quality. Ajvar preparation is somewhat difficult, because it requires considerable manual labour, particularly for peeling the roasted peppers. Traditionally, people prepare it in mid-autumn, when bell peppers are most abundant, and preserve it in glass jars for consumption throughout the year."
+    },
+
+    {
+        "mealId":5,
+        "mealName":"Kacamak",
+        "mealType":[1],
+        "mealCousine":1,
+        "image":"assets/img/foods/kacamak.jpg",
+        "price":{
+            "old":null,
+            "new": 7
+        },
+        "descriptionShort":"Kačamak is a kind of maize porridge made in the Balkans. Its name is derived from the Turkish word kaçamak, meaning escapade.",
+        "descriptionLong":"Kačamak is a kind of maize porridge made in the Balkans. Its name is derived from the Turkish word kaçamak, meaning escapade. The dish is made of cornmeal. Potatoes, milk, white cheese or kaymak are sometimes added. Similar to the Abkhazian abısta, Adyghe mamıs, Italian polenta and Romanian mămăligă, it is prepared by boiling cornmeal and then mashing it while the pot is still on the stove. It was once regarded as a poor man's food, but now is widely eaten, including in restaurants."
+    },
+
+    {
+        "mealId":6,
+        "mealName":"French Toast",
+        "mealType":[1,3],
+        "mealCousine":1,
+        "image":"assets/img/foods/french-toast.jpg",
+        "price":{
+            "old":null,
+            "new": 7
+        },
+        "descriptionShort":"French toast is a dish made of sliced bread soaked in beaten eggs and typically milk, then pan fried.",
+        "descriptionLong":"French toast is a dish made of sliced bread soaked in beaten eggs and typically milk, then pan fried. Slices of bread are soaked or dipped in a mixture of beaten eggs, often whisked with milk or cream. Sugar, cinnamon, nutmeg, and vanilla may be variously added to the mixture. The bread is then fried in butter or olive oil until browned and cooked through. Day-old bread is often used, both for its thrift and because it will soak up more egg mixture without falling apart."
+    },
+
+    {
+        "mealId":7,
+        "mealName":"Strudel",
+        "mealType":[3,4],
+        "mealCousine":5,
+        "image":"assets/img/foods/strudel.jpg",
+        "price":{
+            "old":null,
+            "new": 4
+        },
+        "descriptionShort":"Strudel is a type of layered pastry with a filling that is usually sweet. It became popular in the 18th century throughout the Habsburg Empire.",
+        "descriptionLong":"Strudel is a type of layered pastry with a filling that is usually sweet. It became popular in the 18th century throughout the Habsburg Empire. Strudel is part of Austrian cuisine but also common in the other Central European cuisines. Purists say that it should be so thin that you can read a newspaper through it. A legend has it that the Austrian Emperor's perfectionist cook decreed that it should be possible to read a love letter through it."
+    },
+
+    {
+        "mealId":8,
+        "mealName":"Serbian Cookie",
+        "mealType":[4],
+        "mealCousine":1,
+        "image":"assets/img/foods/serbian-cookie.jpg",
+        "price":{
+            "old":null,
+            "new": 5
+        },
+        "descriptionShort":"Vanilice are bite-sized Serbian Vanilla Cookies that are seriously addicting.",
+        "descriptionLong":"Vanilice are bite-sized Serbian Vanilla Cookies that are seriously addicting. With a nutty sweetness and a soft jam filling, they’re the perfect recipe to add to your next cookie platter! Vanilice means “little vanillas,” and these bite-sized Vanilla Cookies are a type of Serbian Sitni Kolaci, or “tiny cookie”. This delicate class of cookie is most commonly served around the Christmas season."
+    },
+
+    {
+        "mealId":9,
+        "mealName":"Mac and Cheese",
+        "mealType":[3],
+        "mealCousine":1,
+        "image":"assets/img/foods/mac-and-cheese.jpg",
+        "price":{
+            "old":null,
+            "new": 10
+        },
+        "descriptionShort":"Baked mac and cheese.  It’s nearly the universal comfort food, and there are SO many variations!",
+        "descriptionLong":"Baked mac and cheese.  It’s nearly the universal comfort food, and there are SO many variations! If you’ve never made homemade mac and cheese before, it can seem a bit daunting.  But don’t worry, we’ll break it down and take it step by step!"
+    },
+
+    {
+        "mealId":10,
+        "mealName":"Pizza Capricciosa",
+        "mealType":[2,3],
+        "mealCousine":2,
+        "image":"assets/img/foods/capriciosa.jpg",
+        "price":{
+            "old":22,
+            "new": 18
+        },
+        "descriptionShort":"Pizza Capricciosa is a style of pizza in Italian cuisine prepared with mozzarella cheese, Italian baked ham, mushroom, artichoke and tomato.",
+        "descriptionLong":"Pizza Capricciosa is a style of pizza in Italian cuisine prepared with mozzarella cheese, Italian baked ham, mushroom, artichoke and tomato. Some versions may also use prosciutto (a dry-cured ham), marinated artichoke hearts, olive oil, olives, basil leaves,and egg. Some versions may be prepared using a thin crust. Although it has similar ingredients as pizza quattro stagioni, they are arranged differently."
+    },
+
+    {
+        "mealId":11,
+        "mealName":"Pizza Neapolitan",
+        "mealType":[2,3],
+        "mealCousine":2,
+        "image":"assets/img/foods/napolitana.jpg",
+        "price":{
+            "old":25,
+            "new": 20
+        },
+        "descriptionShort":"Neapolitan pizza (Italian: pizza napoletana) also known as Naples-style pizza, is a style of pizza made with tomatoes and mozzarella cheese.",
+        "descriptionLong":"Neapolitan pizza (Italian: pizza napoletana) also known as Naples-style pizza, is a style of pizza made with tomatoes and mozzarella cheese. It must be made with either San Marzano tomatoes or Pomodorino del Piennolo del Vesuvio, which grow on the volcanic plains to the south of Mount Vesuvius, and Mozzarella di Bufala Campana, a protected designation of origin cheese made with the milk from water buffalo raised in the marshlands of Campania and Lazio in a semi-wild state, or \"Fior di Latte di Agerola\", a cow milk mozzarella made exclusively in the Agerola comune."
+    },
+
+    {
+        "mealId":12,
+        "mealName":"Pizza Margheritta",
+        "mealType":[2,3],
+        "mealCousine":2,
+        "image":"assets/img/foods/margarita.jpg",
+        "price":{
+            "old":25,
+            "new":20
+        },
+        "descriptionShort":"Pizza Margherita (more commonly known in English as Margherita pizza) is a typical Neapolitan pizza, made with San Marzano tomatoes, mozzarella cheese, fresh basil, salt and extra-virgin olive oil.",
+        "descriptionLong":"Pizza Margherita (more commonly known in English as Margherita pizza) is a typical Neapolitan pizza, made with San Marzano tomatoes, mozzarella cheese, fresh basil, salt and extra-virgin olive oil. A widespread belief says that in June 1889 the pizzaiolo Raffaele Esposito, Pizzeria Brandi's chef, invented a dish called \"Pizza Margherita\" in honor of the Queen of Italy, Margherita of Savoy, and the Italian unification, since toppings are tomato (red), mozzarella (white) and basil (green), ingredients inspired by the colors of the national flag of Italy."
+    },
+
+    {
+        "mealId":13,
+        "mealName":"Lasagne",
+        "mealType":[2],
+        "mealCousine":2,
+        "image":"assets/img/foods/lasagne.jpg",
+        "price":{
+            "old":30,
+            "new": 25
+        },
+        "descriptionShort":"Lasagne are a type of wide, flat pasta, possibly one of the oldest types of pasta.",
+        "descriptionLong":"Lasagne are a type of wide, flat pasta, possibly one of the oldest types of pasta. Lasagne, or the singular lasagna, is an Italian dish made of stacked layers of thin flat pasta alternating with fillings such as ragù (ground meats and tomato sauce) and other vegetables, cheese (which may include ricotta and parmesan), and seasonings and spices such as garlic, oregano and basil."
+    },
+
+    {
+        "mealId":14,
+        "mealName":"Spaghetti Bolognese",
+        "mealType":[2,3],
+        "mealCousine":2,
+        "image":"assets/img/foods/bolognese.jpg",
+        "price":{
+            "old":null,
+            "new": 25
+        },
+        "descriptionShort":"Usually the pasta is white because refined flour is used, but whole wheat flour may be added.",
+        "descriptionLong":"Usually the pasta is white because refined flour is used, but whole wheat flour may be added. Spaghettoni is a thicker form of spaghetti, while capellini is a very thin spaghetti. Genuine ragù alla bolognese is a slowly cooked meat-based sauce, and its preparation involves several techniques, including sweating, sautéing and braising. Ingredients include a characteristic soffritto of onion, celery and carrot, different types of minced or finely chopped beef, often alongside small amounts of fatty pork."
+    },
+
+    {
+        "mealId":15,
+        "mealName":"Spaghetti Carbonara",
+        "mealType":[2,3],
+        "mealCousine":2,
+        "image":"assets/img/foods/carbonara.jpg",
+        "price":{
+            "old":30,
+            "new": 20
+        },
+        "descriptionShort":"Carbonara is an Italian type of pasta originating from around Rome. It is made using eggs, hard cheese, smoked meat and pepper.",
+        "descriptionLong":"Carbonara is an Italian type of pasta originating from around Rome. It is made using eggs, hard cheese, smoked meat and pepper. The dish with this name and form was created in the middle of the 20th century. Of the cheeses, Pecorino, Parmesan or a combination of the two are most often used. Spaghetti is the most common form of pasta. "
+    },
+
+    {
+        "mealId":16,
+        "mealName":"Italian Breakfast Toast",
+        "mealType":[1],
+        "mealCousine":2,
+        "image":"assets/img/foods/italian-breakfast-toast.jpg",
+        "price":{
+            "old":null,
+            "new": 8
+        },
+        "descriptionShort":"For those who haven’t been introduced yet, bruschetta is toast’s fancier, Italian cousin.",
+        "descriptionLong":"For those who haven’t been introduced yet, bruschetta is toast’s fancier, Italian cousin. Hailing from one of the most beautiful countries in the world, bruschetta, in its simplest form, consists of toasted bread slices flavored with raw garlic, olive oil, and salt. Over time, food lovers got creative with the appetizer."
+    },
+
+    {
+        "mealId":17,
+        "mealName":"Ice Cream",
+        "mealType":[4],
+        "mealCousine":5,
+        "image":"assets/img/foods/icecream.jpg",
+        "price":{
+            "old":null,
+            "new": 2
+        },
+        "descriptionShort":"Ice cream is a sweetened frozen food typically eaten as a snack or dessert. It may be made from dairy milk or cream and is flavoured with a sweetener.",
+        "descriptionLong":"Ice cream is a sweetened frozen food typically eaten as a snack or dessert. It may be made from dairy milk or cream and is flavoured with a sweetener, either sugar or an alternative, and any spice, such as cocoa or vanilla. It can also be made by whisking a flavored cream base and liquid nitrogen together. Colorings are usually added, in addition to stabilizers."
+    },
+
+    {
+        "mealId":18,
+        "mealName":"French Fries",
+        "mealType":[3,5],
+        "mealCousine": 5,
+        "image":"assets/img/foods/french-fries.jpg",
+        "price":{
+            "old":null,
+            "new": 3
+        },
+        "descriptionShort":"French fries are served hot, either soft or crispy, and are generally eaten as part of lunch or dinner or by themselves as a snack.",
+        "descriptionLong":"French fries are served hot, either soft or crispy, and are generally eaten as part of lunch or dinner or by themselves as a snack, and they commonly appear on the menus of diners, fast food restaurants, pubs, and bars. They are usually salted and, depending on the country, may be served with ketchup, vinegar, mayonnaise, tomato sauce, or other local specialties."
+    },
+
+    {
+        "mealId":19,
+        "mealName":"Mashed Potato Puree",
+        "mealType":[2,3,5],
+        "mealCousine":5,
+        "image":"assets/img/foods/mashed-potato.jpg",
+        "price":{
+            "old":null,
+            "new": 6
+        },
+        "descriptionShort":"Mashed Potato is a dish made by mashing boiled potatoes, usually with added milk, butter, salt and pepper. It is generally served as a side dish to meat or vegetables.",
+        "descriptionLong":"Mashed Potato is a dish made by mashing boiled potatoes, usually with added milk, butter, salt and pepper. It is generally served as a side dish to meat or vegetables. Butter, milk or cream, salt, and pepper are usually added. Many other seasonings may also be used, including herbs (notably parsley and chives), spices (notably nutmeg), garlic, cheese, bacon, sour cream, crisp onion or spring onion, caramelized onion, and mustard."
+    },
+
+    {
+        "mealId":20,
+        "mealName":"Chicken with Bamboo",
+        "mealType":[2,3],
+        "mealCousine":3,
+        "image":"assets/img/foods/chicken-with-bamboo.jpg",
+        "price":{
+            "old":22,
+            "new":18
+        },
+        "descriptionShort":"Bamboo chicken is a chicken curry prepared by stuffing the chicken in the bamboo shoot and then cooked on charcoal.",
+        "descriptionLong":""
+    },
+    {
+        "mealId":21,
+        "mealName":"Char Siu Pork",
+        "mealType":[2,3],
+        "mealCousine":3,
+        "image":"assets/img/foods/char-siu-pork.jpg",
+        "price":{
+            "old":null,
+            "new": 17
+        },
+        "descriptionShort":"Sticky, crimson red Char Siu Pork – just like you get from the Chinese Barbecue meat shops!",
+        "descriptionLong":"Sticky, crimson red Char Siu Pork – just like you get from the Chinese Barbecue meat shops! Also called Chinese BBQ Pork, it’s finger licking good and you’re going to be shocked how easy it is to make the Char Siu sauce that’s used to marinade the pork."
+    },
+
+    {
+        "mealId":22,
+        "mealName":"Spring Rolls",
+        "mealType":[1,3],
+        "mealCousine":3,
+        "image":"assets/img/foods/spring-rolls.jpg",
+        "price":{
+            "old":null,
+            "new": 14
+        },
+        "descriptionShort":"There's really no definitive rules about what goes inside Spring Rolls.",
+        "descriptionLong":"There's really no definitive rules about what goes inside Spring Rolls. When was the last time you ordered spring rolls at a Chinese restaurant? Did you bite into it and wonder what was actually inside? And if it was a really bad one, you may have even been treated to oil squirting into your mouth when you bit into it."
+    },
+
+    {
+        "mealId":23,
+        "mealName":"Dumplings",
+        "mealType":[1,3],
+        "mealCousine":3,
+        "image":"assets/img/foods/dumplings.jpg",
+        "price":{
+            "old":null,
+            "new": 12
+        },
+        "descriptionShort":"To boil dumplings, fill a large pot two-thirds of the way with water.",
+        "descriptionLong":"To boil dumplings, fill a large pot two-thirds of the way with water. Cover and bring to a boil over high heat. Add as many dumplings as can fit comfortably in a single layer in the pot and cook them until they float. Let them cook an additional two to three minutes."
+    },
+
+    {
+        "mealId":24,
+        "mealName":"Chinese Sweets Mix",
+        "mealType":[4],
+        "mealCousine":3,
+        "image":"assets/img/foods/chinese-sweets.jpg",
+        "price":{
+            "old":36,
+            "new": 30
+        },
+        "descriptionShort":"Chinese desserts are sweet foods and dishes that are served with tea, along with meals or at the end of meals in Chinese cuisine.",
+        "descriptionLong":"Chinese desserts are sweet foods and dishes that are served with tea, along with meals or at the end of meals in Chinese cuisine. The desserts encompass a wide variety of ingredients commonly used in East Asian cuisines such as powdered or whole glutinous rice, sweet bean pastes, and agar. Due to the many Chinese cultures and the long history of China, there are a great variety of desserts of many forms."
+    },
+
+    {
+        "mealId":25,
+        "mealName":"Hotpot",
+        "mealType":[2],
+        "mealCousine":3,
+        "image":"assets/img/foods/hotpot.jpg",
+        "price":{
+            "old":null,
+            "new": 29
+        },
+        "descriptionShort":"Hotpot, also known as soup-food or steamboat, is a cooking method that originates from China, prepared with a simmering pot of soup stock at the dining table.",
+        "descriptionLong":"Hotpot, also known as soup-food or steamboat, is a cooking method that originates from China, prepared with a simmering pot of soup stock at the dining table, containing a variety of East Asian foodstuffs and ingredients. While a hot pot full of flavored broth is kept simmering, raw ingredients are placed into the pot and are cooked in a manner similar to fondue (hot pots usually use a water-based soup, while fondues use cooking oil). Hot pots may be prepared and eaten either at home or in a restaurant. Since it is considered as a main dish, it can be enjoyed without other separate courses like rice or noodles."
+    },
+
+    {
+        "mealId":26,
+        "mealName":"Sichuan Pork",
+        "mealType":[2],
+        "mealCousine":3,
+        "image":"assets/img/foods/sichuan-pork.jpg",
+        "price":{
+            "old":null,
+            "new":30
+        },
+        "descriptionShort":"The Chinese Moon Festival is the perfect occasion for a sensational dinner!",
+        "descriptionLong":"The Chinese Moon Festival is the perfect occasion for a sensational dinner! It doesn't indicate the sophistication of the seasoning used in Sichuan shredded pork. Essential ingredients include Sichuan pickled chilli, rice wine, black rice. Instructions. Firstly place the pork belly or hind leg in cold water, add ginger slices, green onion."
+    },
+
+    {
+        "mealId":27,
+        "mealName":"Grilled Cheese",
+        "mealType":[5],
+        "mealCousine":5,
+        "image":"assets/img/foods/grilled-cheese.jpg",
+        "price":{
+            "old":null,
+            "new": 10
+        },
+        "descriptionShort":"A toasted sandwich, grilled cheese sandwich, cheese toastie, or grilled cheese is a hot sandwich made with one or more varieties of cheese (a cheese sandwich) on bread.",
+        "descriptionLong":"A toasted sandwich, grilled cheese sandwich, cheese toastie, or grilled cheese is a hot sandwich made with one or more varieties of cheese (a cheese sandwich) on bread. It is typically prepared by heating one or more slices of cheese between slices of bread, with a cooking fat such as butter, on a frying pan, griddle, or sandwich toaster, until the bread browns and the cheese melts. A grilled cheese may contain separate ingredients, though the main ingredients remain the bread and cheese."
+    },
+
+    {
+        "mealId":28,
+        "mealName":"Pork with Curry Sauce",
+        "mealType":[2],
+        "mealCousine":4,
+        "image":"assets/img/foods/pork-with-curry-sauce.jpg",
+        "price":{
+            "old":40,
+            "new": 29
+        },
+        "descriptionShort":"Pat chops dry; season with salt and pepper. Melt butter with oil in a large, heavy skillet over medium-high heat.",
+        "descriptionLong":"Pat chops dry; season with salt and pepper. Melt butter with oil in a large, heavy skillet over medium-high heat. When bubbling stops, add chops and cook until browned, about 5 minutes on each side. Remove, place on a plate and cover with foil."
+    },
+
+    {
+        "mealId":29,
+        "mealName":"Chicken with Curry Sauce",
+        "mealType":[2,3],
+        "mealCousine":4,
+        "image":"assets/img/foods/chicken-with-curry-sauce.jpg",
+        "price":{
+            "old":35,
+            "new":27
+        },
+        "descriptionShort":"If you love Indian food you have to try this recipe! This Chicken Curry tastes just as good as what you’d get at an Indian restaurant.",
+        "descriptionLong":"If you love Indian food you have to try this recipe! This Chicken Curry tastes just as good as what you’d get at an Indian restaurant. This has been the go-to dish I order at my local Indian restaurant so I finally just decided to recreate it at home and I couldn’t be happier with the end result! It brimming with flavor thanks to all the spices, it’s rich and creamy and it’s amazingly hearty when you finish it off with basmati rice or naan bread."
+    },
+
+    {
+        "mealId":30,
+        "mealName":"Indian Treats Mix",
+        "mealType":[4],
+        "mealCousine":4,
+        "image":"assets/img/foods/indian-treats.jpg",
+        "price":{
+            "old":null,
+            "new":19
+        },
+        "descriptionShort":"Indian mithai, a significant element in Indian cuisine. Indians are known for their unique taste and experimental behavior when it comes to food.",
+        "descriptionLong":"Indian mithai, a significant element in Indian cuisine. Indians are known for their unique taste and experimental behavior when it comes to food. Many Indian desserts are fried foods made with sugar, milk or condensed milk. Ingredients and preferred types of dessert vary by region. In the eastern part of India, for example, most are based on milk products. Many are flavoured with almonds and pistachios, spiced with cardamon, nutmeg, cloves and black pepper, and decorated with nuts, or with gold or silver leaf."
+    }
+]
